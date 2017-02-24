@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_b8cb3e73346ae24530440fae84aac3602047ab00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\TongaAndroid\ujikom-2017\Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23a058e477084940604bb213e037a435f1df5fe3">
+        <dex dex="C:\TongaAndroid\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c8fe29767a463cd3385a9031c945b1bb6131488c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\TongaAndroid\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\TongaAndroid\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_a91ae7f1bd79312c141d8338ce88b898bdf9a2bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_9ac7bc587343ce369e8bac2eb4630160d43ab7d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_3e801f2c585276f3f273a9825aabeda71442f872\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_b1d298168670da65803ff9a6a2cf65822dd91c00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\TongaAndroid\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\TongaAndroid\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_0ad7532f4974d0fd9930bbae77b2640c4e518cae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\TongaAndroid\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\TongaAndroid\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_fa8e0165914faa039e430e39df3251188ac96729\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_026ccf6e3e195260450ea47cb98db7594c3a2088\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\TongaAndroid\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\TongaAndroid\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_4a88a9f4548110926ed06698588e3ffb8fe2bf8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27f6aad7027914d63ad5849baab0e947dfe62613">
+        <dex dex="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8b8eb020fc93c7a44260887bf8d653fe1b338ee4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_d840b226da289a5648b2a2cd19a32eb7789c7164\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="91f9f3a3f5c182a7df368f05757c4b124f77ce0f">
+        <dex dex="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f6196b2ef845924142230797da29d88e894f4f58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\TongaAndroid\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\TongaAndroid\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_f89851a3617eea4714ef6017eefd6a2ec0e60efd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\TongaAndroid\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\TongaAndroid\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_c8f5b1de819d91219caceb4fb63560e95df70cf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_9463fc66cbfcb8d7a284a635cbc5d91832bae1c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\TongaAndroid\ujikom-2017\Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d9a8c72b2d7498a0cdbe8b36636dc05a9bf6d54d">
+        <dex dex="C:\TongaAndroid\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7948d93e015df3ca145bc465220bac239f810e24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\User\Downloads\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_badcc59626c8bf60fbd570ba883ac0f8d5c9be7a\classes.dex" />
+    </item>
+
+</items>

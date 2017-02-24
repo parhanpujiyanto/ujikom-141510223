@@ -1,0 +1,7 @@
+#Sat Feb 25 01:23:19 ICT 2017
+base.0=C\:\\TongaAndroid\\ujikom-2017\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c8fe29767a463cd3385a9031c945b1bb6131488c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\TongaAndroid\\ujikom-2017\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7948d93e015df3ca145bc465220bac239f810e24\\classes.dex
+base.1=C\:\\TongaAndroid\\ujikom-2017\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7948d93e015df3ca145bc465220bac239f810e24
+file.0=C\:\\TongaAndroid\\ujikom-2017\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c8fe29767a463cd3385a9031c945b1bb6131488c\\classes.dex
